@@ -1,0 +1,22 @@
+
+html, body {
+    margin: 0;
+  }
+  
+html {
+    font-size: 10px;
+    background-color: rgb(7, 130, 50);
+  }
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(225, 245, 232);
+    padding: 40px;
+    font-size: 1.5em;
+  }
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+  }
